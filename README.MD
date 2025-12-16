@@ -1,3 +1,5 @@
 Kintex-7 USRP_B210 AD9361BBCZ+XC7K325T
 
 LibreSDR B210/B220 AD9361
+
+linkdownload bin https://t.me/c/1890477051/15301
